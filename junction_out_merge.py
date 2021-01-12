@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 # @Time  : 2020/12/18 15:32
 # @Author: lify
